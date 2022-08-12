@@ -1,0 +1,15 @@
+{
+	"data": {
+		"pageMeta": {
+			"home": {
+				"title": "HOME",
+				"description": "Site Description",
+				"stylePath": "./assets/css/",
+				"scriptPath": "./assets/js/",
+				"imgPath": "./assets/images/",
+				"linkPath": "./",
+				"swiperCss":"./assets/css/vendors/"
+			}
+		}
+	}
+}
